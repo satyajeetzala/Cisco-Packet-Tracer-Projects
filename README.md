@@ -1,5 +1,5 @@
 
-# 🌐 PacketTracer Topologies
+# 🌐 Cisco Packet Tracer Projects
 
 Welcome to my collection of networking topologies created with Cisco Packet Tracer! This repository features a variety of projects, ranging from simple configurations to complex network designs. Each topology is designed to illustrate key networking concepts and improve your practical skills.
 
