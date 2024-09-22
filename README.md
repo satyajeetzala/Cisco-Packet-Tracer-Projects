@@ -30,7 +30,7 @@ To get started with the projects in this repository:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/PacketTracer-Topologies.git
+   git clone https://github.com/satyajeetzala/Cisco-Packet-Tracer-Projects.git
    ```
 
 2. **Open the projects in Cisco Packet Tracer.**
@@ -90,8 +90,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out with any questions or suggestions:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/satyajeetzala)
+- **Email**:satyajeetsinh1112@gmail.com
+- **LinkedIn**: [Click Here](https://linkedin.com/in/satyajeetzala)
 
 ---
 
