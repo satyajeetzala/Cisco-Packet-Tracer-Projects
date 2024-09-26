@@ -1,0 +1,7 @@
+for another serial port 
+use router 1841
+
+add module named WIC-1T
+
+FOR MIDDLE ROUTER USE 2  WIC-1T
+
